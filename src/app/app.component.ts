@@ -6,7 +6,7 @@
 *
 * Name: Eun Dong Kim   Student ID: 144692209   Date: July 29th, 2022
 *
-* Angular App (Deployed) Link: _____________________________________________________
+* Angular App (Deployed) Link: https://fascinating-klepon-3e20a6.netlify.app/
 *
 * User API (Heroku) Link: https://afternoon-sands-77004.herokuapp.com/
 *
