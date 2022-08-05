@@ -8,7 +8,7 @@
 *
 * Angular App (Deployed) Link: https://amazing-piroshki-510226.netlify.app/
 *
-* User API (Heroku) Link: https://afternoon-sands-77004.herokuapp.com/
+* User API (Heroku) Link: https://afternoon-sands-77004.herokuapp.com/api/user
 *
 *********************************************************************************/
 
